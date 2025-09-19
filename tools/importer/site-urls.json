@@ -1,0 +1,651 @@
+{
+  "originUrl": "https://product-standard-pump.ebara.com",
+  "aborted": false,
+  "lastCrawled": "https://product-standard-pump.ebara.com/",
+  "urls": [
+    {
+      "url": "https://product-standard-pump.ebara.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "c5af9fd65202523a0e67e3ebb419280feb90f364"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/cookie/",
+      "source": "CRAWL",
+      "targetPath": "/cookie",
+      "id": "d49c901407dd915b71e9075788065d8c5c338d79"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor",
+      "source": "CRAWL",
+      "targetPath": "/distributor",
+      "id": "7864a1fad9cba12e3352599af95c0c79abb507dc"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/",
+      "source": "CRAWL",
+      "targetPath": "/distributor",
+      "id": "8ec29d4146ce9b68aac16f8ab90d67c131bc6558"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:10",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-10",
+      "id": "b709e82a089722f3b3b964de6b42135d2791ba5d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:11",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-11",
+      "id": "f7362523fc65e2194728ca9f4c2bcc8406692556"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:12",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-12",
+      "id": "1d4e78beb9a115966a79b5b0685c9538749195eb"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:13",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-13",
+      "id": "8df21ebc31bfa453d62e39f4c81cee9b05c3908f"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:14",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-14",
+      "id": "55318ef5ea40657381c0ccb97eb7904b952c36a3"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:15",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-15",
+      "id": "6a845c8498e2853af2646982720bd5bcd40e9aa9"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:16",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-16",
+      "id": "eff0d13c47d74c0ea35b53d719b10defe8135b37"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:17",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-17",
+      "id": "2543f5417d1673f784095c2dfcb219017ca76306"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:18",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-18",
+      "id": "4bdf7f294d9c4579491fd7228f901f44ee82f97f"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:19",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-19",
+      "id": "67034518b8321d620c6a1e2f9dea1b06a0d702d6"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:2",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-2",
+      "id": "4dba09885fb10c1b0981c680db5c2562c7aec8ed"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:20",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-20",
+      "id": "65bdc08259b3f2d8efaa23b569afc79746ea3988"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:21",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-21",
+      "id": "cb6a39e8c2b37a9f9ca0b74c2f218550eb306ee1"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:22",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-22",
+      "id": "1033ce60d9d8f5b38f0f7177384832d403d2a17c"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:23",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-23",
+      "id": "c882bb5856942b5fa7187dcc984c014c4562e01a"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:24",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-24",
+      "id": "266ff8f8a13341efef5d061f0fd9889360cc016e"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:25",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-25",
+      "id": "e809903493f8da442b8c282d043f2e97dc3d13f2"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:26",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-26",
+      "id": "aefbf8dd0a5e2a9740ec81b2a2e2ea32368fd6f3"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:3",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-3",
+      "id": "416ffec2e1fac01c6320b7ab3b604046da7953be"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:4",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-4",
+      "id": "544220a7fcb4d2bff2549ad2f62d44392b877e4c"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:5",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-5",
+      "id": "1feaae8fdde5b1f6c9d809815182ae60a0637d28"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:6",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-6",
+      "id": "f0b87f5914025d9a278f6a387e7c7c14c9e5f7c9"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:7",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-7",
+      "id": "14cbc276a9fce7ef63bcc55feec3f3c84c6b9780"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:8",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-8",
+      "id": "b17ab0050319d058cad20b85bc79dc659ab5cef3"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/distributor/index/page:9",
+      "source": "CRAWL",
+      "targetPath": "/distributor/index/page-9",
+      "id": "f0caae7f475d614f56a4ce9b1b45b40d698f1d5d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq",
+      "source": "CRAWL",
+      "targetPath": "/faq",
+      "id": "e02536c1f553cd4539a08e1b319af46caf57b31d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/",
+      "source": "CRAWL",
+      "targetPath": "/faq",
+      "id": "872f3115b6866a30b5e78175afde1d85f666f229"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/1",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/1",
+      "id": "e2e670623a60d11800dda933f9f42d1583b824d8"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/10",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/10",
+      "id": "5aa1aeff796e2e9372a5ab698b4ba8b85a71b325"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/11",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/11",
+      "id": "1bb8eb83fa94fa71a65015debd3f2a0db605e25b"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/12",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/12",
+      "id": "6772319a6a6b236d31e3e63ee4206d0b86f0109e"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/13",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/13",
+      "id": "f6e215288f3b911b72308d158dc8eae6c22821a2"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/14",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/14",
+      "id": "aa3f1edf81f21a1068878b9b84f0c7909fde9a81"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/15",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/15",
+      "id": "1abac20a72d7dee2cf3d865fc727c8b43f9c641f"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/16",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/16",
+      "id": "3968e87f74da4570444084d2b95cde229e5005b6"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/17",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/17",
+      "id": "1c5dc2b8c1df639fe58009927bee8ef7feb3698e"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/18",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/18",
+      "id": "b7a6df759904b986cbb318b92dba506c7f392823"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/19",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/19",
+      "id": "7af01f64278bbe6a71436bf2e5c854e484b8f702"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/2",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/2",
+      "id": "040c8f21890d2ce9c82dfa39d2ebe80d43c61775"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/20",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/20",
+      "id": "8e3f8099ae1471835d91572e81e48562877bb609"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/21",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/21",
+      "id": "a442aba26c2bdda6b4c6902f78806c1027bf04a5"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/22",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/22",
+      "id": "c1ef40f53e8edfc0c10eb1faeaf26015a3adcfbf"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/23",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/23",
+      "id": "30693f7720086481ed7b63c6939715e3327fdd5f"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/24",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/24",
+      "id": "0b412d0934c8af27b32d4e3f2f1870e7394a8f02"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/25",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/25",
+      "id": "3c9817598d9240d3067d225464c7d50466bbdf1f"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/26",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/26",
+      "id": "d917931573e4f884081cd9bc29f9232148cb1fcd"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/27",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/27",
+      "id": "0a7418995800d2c703431cea7808c7cf7e12fb5c"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/28",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/28",
+      "id": "b0d4c94776d6e2de18fbfadf807cb08003af1c60"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/29",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/29",
+      "id": "9c970e26d8fece90ed2df422ccd942c5a51c6a9d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/3",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/3",
+      "id": "67660f114ab7bc5b441167fccd65cf8b50d02ffd"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/30",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/30",
+      "id": "ccc7d85ba98c352e6616d7e0ce904b23489d4706"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/31",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/31",
+      "id": "83b566b4f2eb381233321366e281b07387420be3"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/32",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/32",
+      "id": "18a0a3736d0f1d15a8605739e22cf83754a1b9e2"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/33",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/33",
+      "id": "2229b7724e66f74cd4f29bff99e9a074cc1adc9c"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/34",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/34",
+      "id": "2f1a16c55c24ce3d498124ae935f8632e2a2b769"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/35",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/35",
+      "id": "8f8fecb023fa842f73971424530de27d5594de10"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/36",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/36",
+      "id": "b08af08200f2aa1c7b0e8357ff430f8a39ef80a5"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/37",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/37",
+      "id": "a05a56465223c5d13b7af04b07fccc742860a65e"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/38",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/38",
+      "id": "03d31cba4f1e1cf05cbbc2ab9b1aed5999d06c52"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/39",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/39",
+      "id": "654288484f405b6b9243cdf5c6ae901ae9195955"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/4",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/4",
+      "id": "52303988ddfc1125136ff77170e5c1afd3b0fd36"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/40",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/40",
+      "id": "80a7ebb1067aa0b8705512991f6059edc0adfe7d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/41",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/41",
+      "id": "7fa087ad23be3bbde19f4405d9db8a06a1721c31"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/42",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/42",
+      "id": "10668d747360bf02a226ded2bc6c21936dbaa86c"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/43",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/43",
+      "id": "a6d8048afafe74cb4f4c1370f77d4ac9b72b3d3b"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/44",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/44",
+      "id": "f70158ef21aacedbb4f5c9daa713ff974d8d319c"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/45",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/45",
+      "id": "efd10bff44b02efc039f15760c98a4d5f198c734"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/46",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/46",
+      "id": "e68e788ddb9c2eaf354082e245fe4c582e073cd6"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/47",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/47",
+      "id": "f76059d5291196cbc42708e4dac29092c852ceae"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/48",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/48",
+      "id": "9bff81fc54275af263b3ca21aaea28eea3992ca8"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/49",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/49",
+      "id": "2ce7641c7a6ce05865516c43d6638e3a17c83bc2"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/5",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/5",
+      "id": "9bf11c18ee039db75c921e343fbb10c8608a203a"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/50",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/50",
+      "id": "78df7174d677bbd9107e3953e7142d7f26f3b412"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/51",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/51",
+      "id": "0283eac6821e62a344594652d6882d5c090ad12a"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/52",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/52",
+      "id": "18059166489203edf1ca4d6a30eaae8d6d1bc0ad"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/53",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/53",
+      "id": "cdc05147c72955bc20d2b85b33528edeb0e0e14d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/54",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/54",
+      "id": "ef96c0150037307a3112e539560fe51004c733cd"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/55",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/55",
+      "id": "e4058d9a4ba7c02954eebb7cce0b445f3e8161ab"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/56",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/56",
+      "id": "266a50507828e3ac21ea2a1e20a30fa2e1f8f9e5"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/6",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/6",
+      "id": "4aba53acaa208cbf3b002ba59c23350b5a8a6e5b"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/67",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/67",
+      "id": "43ceadcccb98a84be8b4d39458f72191a8ddde58"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/68",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/68",
+      "id": "de6d0b78ff7291905672300404faf60871a9d6a0"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/7",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/7",
+      "id": "0e8390d1aa656997ee04576b79edd73cd801998e"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/8",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/8",
+      "id": "ddd7a52ac354dd9651915deee67c7da5e8a4287b"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/detail/9",
+      "source": "CRAWL",
+      "targetPath": "/faq/detail/9",
+      "id": "bce6ed241605bdefdd94ea259fd4cd3a63568f65"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/index/page:2",
+      "source": "CRAWL",
+      "targetPath": "/faq/index/page-2",
+      "id": "ad8db92023b8a0562b27c68efba0dc044d49f80a"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/faq/index/page:3",
+      "source": "CRAWL",
+      "targetPath": "/faq/index/page-3",
+      "id": "c1bd826366cdd2e8a5f802feeb3762500333e8fe"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/inquiry/",
+      "source": "CRAWL",
+      "targetPath": "/inquiry",
+      "id": "d5106bdf248c180780377990d26c5ce6cf3ec753"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/news/",
+      "source": "CRAWL",
+      "targetPath": "/news",
+      "id": "910fbc83f88b8146bfbba4c636c589aa5c238879"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/news/index/sort:id/direction:asc",
+      "source": "CRAWL",
+      "targetPath": "/news/index/sort-id/direction-asc",
+      "id": "5359af99bd5b765e25109c10301056d8017359c9"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/news/index/sort:id/direction:desc",
+      "source": "CRAWL",
+      "targetPath": "/news/index/sort-id/direction-desc",
+      "id": "86d3564659c4d483046d9af46c13c148c3e243a9"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/news/index/sort:title/direction:asc",
+      "source": "CRAWL",
+      "targetPath": "/news/index/sort-title/direction-asc",
+      "id": "237a7d104c5d2b3f5d3d28eeb071265b82a05d87"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/news/index/sort:title/direction:desc",
+      "source": "CRAWL",
+      "targetPath": "/news/index/sort-title/direction-desc",
+      "id": "886f155448d1f7a3f0928fbc4358292398a85374"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/repair/",
+      "source": "CRAWL",
+      "targetPath": "/repair",
+      "id": "efb82714ff58715ed5c329ca8cda0846d76b76f4"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/repair/common",
+      "source": "CRAWL",
+      "targetPath": "/repair/common",
+      "id": "65bacafd56d88dc6518ae2e69bdc45d43f843e47"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/sds/",
+      "source": "CRAWL",
+      "targetPath": "/sds",
+      "id": "b5e3741620e09ffdced817e915dca5751514934d"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/site/terms/",
+      "source": "CRAWL",
+      "targetPath": "/site/terms",
+      "id": "b07e4ec95ff7c6d83bd949565b63e8537587c791"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://product-standard-pump.ebara.com/files/05_SafetyDataSheet/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/pages/display",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/news/add",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/files/05_SafetyDataSheet/085-%E5%85%B1%E5%90%8C%E6%B2%B9%E8%84%82-%E3%83%AC%E3%82%A2%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCRMS4V_2068__SDS.PDF",
+      "status": "content type is not text/html. Content type: application/pdf"
+    },
+    {
+      "url": "https://product-standard-pump.ebara.com/files/05_SafetyDataSheet/036-SINOPEC(%E9%95%B7%E5%9F%8E%E6%BD%A4%E6%BB%91%E6%B2%B9)-TSA_32(A)_Turbine_Oil.PDF",
+      "status": "content type is not text/html. Content type: application/pdf"
+    }
+  ],
+  "errorCountMessage": "{\"E_403\":1,\"E_404\":2,\"others\":2}",
+  "error": null
+}
